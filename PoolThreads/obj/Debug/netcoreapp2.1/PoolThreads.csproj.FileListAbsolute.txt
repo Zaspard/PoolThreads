@@ -1,0 +1,14 @@
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\bin\Debug\netcoreapp2.1\PoolThreads.deps.json
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\bin\Debug\netcoreapp2.1\PoolThreads.runtimeconfig.json
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\bin\Debug\netcoreapp2.1\PoolThreads.runtimeconfig.dev.json
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\bin\Debug\netcoreapp2.1\PoolThreads.dll
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\bin\Debug\netcoreapp2.1\PoolThreads.pdb
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.csproj.CoreCompileInputs.cache
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.RazorAssemblyInfo.cache
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.RazorAssemblyInfo.cs
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.AssemblyInfoInputs.cache
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.AssemblyInfo.cs
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.RazorTargetAssemblyInfo.cache
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.dll
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.pdb
+C:\Users\zaspard\source\repos\PoolThreads\PoolThreads\obj\Debug\netcoreapp2.1\PoolThreads.csprojAssemblyReference.cache
